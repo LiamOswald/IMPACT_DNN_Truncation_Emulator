@@ -5,7 +5,7 @@ University of South Alabama, IMPACT and VLSI lab design.
 This code base is a direct source code reference for the manuscript "Flexible Bit-Truncation Memory for Approximate
 Applications on the Edge"
 
-This codebase is the direct product of the work from Dr. William Oswald, and Dr. md. Bipul Hossain.
+This codebase is the direct product of the work from Dr. William Oswald, and Dr. Md. Bipul Hossain.
 
 The structure of this codebase is as follows:
 ## notebook_examples
